@@ -1,13 +1,13 @@
 {
   "name": "cary-peer-deps",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "peerDependencies": {
-    "react": ">=16.0.0 < 17.0.0"
+  "devDependencies": {
+    "react": ">=16.0.0"
   },
   "author": "",
   "license": "ISC"
